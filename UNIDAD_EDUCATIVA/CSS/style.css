@@ -1,0 +1,12 @@
+.nombre_clase {
+ color:brown;
+}
+
+.titulo_linea_texto{
+color:blue;
+
+}
+.titulo_linea_texto::first-letter{
+
+    color:aqua;
+}
